@@ -1,0 +1,67 @@
+QFrame#MainWindow {
+
+
+    color: yellow;
+}
+
+QLabel{
+    color: black;
+    /*font-weight: bold;*/
+}
+
+/*
+#styleChangeButton {
+    border-style: none;
+    background-image: url(:/images/skin.png);
+
+    margin-right: 7px;
+    margin-top: 2px;
+    width: 20px;
+    height: 17px;
+
+}
+*/
+#appMinButton {
+    border-style: none;
+    background-image: url(:/images/11.png);
+    width: 29px;
+    height: 18px;
+}
+
+
+#appCloseButton {
+    border-style: none;
+    background-image: url(:/images/5.png);
+    width: 29px;
+    height: 18px;
+}
+/*
+#scanPage > QFrame#leftWidget {
+    border-image: url(:/images/lv.png);
+}
+#scanPage > QFrame#rightWidget {
+    border-image: url(:/images/lan.png);
+}
+
+#guardPage > QFrame#leftWidget {
+    background-image: url(:/images/hei.png);
+}
+#guardPage > QFrame#rightWidget {
+    background-image: url(:/images/lv.png);
+}
+
+#updatePage > QFrame#leftWidget {
+    background-image: url(:/images/lv.png);
+}
+#updatePage > QFrame#rightWidget {
+    background-image: url(:/images/lan.png);
+}
+
+#toolsPage > QFrame#leftWidget {
+    border-image: url(:/images/cc.png);
+}
+#toolsPage > QFrame#rightWidget {
+    border-image: url(:/images/dd.png);
+}
+*/
+

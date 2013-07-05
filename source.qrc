@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/5.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+        <file>images/10.png</file>
+        <file>images/11.png</file>
+        <file>images/12.png</file>
+        <file>images/13.png</file>
+        <file>images/cc.png</file>
+        <file>images/Thumbs.db</file>
+        <file>images/www.png</file>
+        <file>images/xu.png</file>
+        <file>images/rizhi.png</file>
+        <file>images/xuni.png</file>
+        <file>images/zhencha.png</file>
+        <file>images/zhuye.png</file>
+        <file>images/xianshen.png</file>
+        <file>images/yinshen.png</file>
+        <file>images/ee.png</file>
+        <file>images/styleTest.qss</file>
+        <file>images/fine2.png</file>
+        <file>images/1fine1.png</file>
+        <file>images/123.png</file>
+        <file>images/22.png</file>
+        <file>images/33.png</file>
+    </qresource>
+</RCC>
