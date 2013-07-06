@@ -1,4 +1,4 @@
-HadoopProgram
+The project in the competition
 =============
-
-Exercise of hadoop
+Realize the GUI by using QT
+Realize the function by using libpcap and libnet
