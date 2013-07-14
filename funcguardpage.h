@@ -79,8 +79,8 @@ public slots:
         void startxy();
         void startcz();
         void stopinsmod2();
-       void ww(int);
-       void yy(int);
+        void ww(int);
+        void yy(int);
 
 public:
     void second();
